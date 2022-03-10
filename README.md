@@ -1,2 +1,2 @@
 # nir-pipeline
-Pipeline for analysing NIR data
+Pipeline for reducing NIR images 
